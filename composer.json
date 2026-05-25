@@ -1,0 +1,11 @@
+{
+  "name": "flamesphp/date",
+  "description": "Flames: Date",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=8.5"
+  }
+}
